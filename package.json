@@ -1,0 +1,23 @@
+{
+  "name": "talk",
+  "version": "1.0.0",
+  "description": "audio chat web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatWrz/talk.git"
+  },
+  "keywords": [
+    "audio",
+    "WebRTC"
+  ],
+  "author": "Mathieu Wrzesien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatWrz/talk/issues"
+  },
+  "homepage": "https://github.com/MatWrz/talk#readme"
+}
