@@ -1,2 +1,3 @@
-// eslint-disable-next-line no-console
-console.log('hello world');
+export default function sum(x, y) {
+  return x + y;
+}
