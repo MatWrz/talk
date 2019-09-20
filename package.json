@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "parcel index.html",
     "build": "parcel build index.html",
-    "test": "echo \"Warning: no test specified\" && exit 0"
+    "test": "echo \"Warning: no test specified\" && exit 0",
+    "lint": "./node_modules/.bin/eslint ."
   },
   "repository": {
     "type": "git",
