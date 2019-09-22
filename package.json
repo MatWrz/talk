@@ -7,7 +7,7 @@
     "dev": "parcel index.html",
     "build": "parcel build index.html",
     "test": "jest",
-    "test-coverage": "jest --coverage",
+    "test:coverage": "npm test -- --coverage",
     "lint": "eslint ."
   },
   "repository": {
