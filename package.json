@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatWrz/talk.git"
+    "url": "https://github.com/MatWrz/talk.git"
   },
   "keywords": [
     "audio",
